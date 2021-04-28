@@ -3,10 +3,10 @@
 [Website](https://uakarsh.github.io/AkarshU/)
 [Twitter Follow](https://twitter.com/akarsh1_u)
 
-## I'm a student, a datas science enthusiast and Teacher (somewhat)!!
+## I'm a student, a data science enthusiast and Teacher (somewhat)!!
 
 - 🔭 I am currently looking for an internship 
-- 🌱 I’m currently learning  🤣
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Land an internship in the field of Data Science, and contribute to open sources
 - ⚡ Fun fact: I love to dance and read books
@@ -18,13 +18,9 @@
 [<img align="left" alt="Akarsh Upadhyay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
 <br />
 <br />
-
+<br />
 ---
 
 ### 📺 Some of my projects:
