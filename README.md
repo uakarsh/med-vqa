@@ -11,6 +11,16 @@
 - 🥅 2021 Goals: Land an internship in the field of Data Science, and contribute to open sources
 - ⚡ Fun fact: I love to dance and read books
 
+## About the Project:
+
+Problem : Question Answering for the Medical Images 
+[Data](https://www.nature.com/articles/sdata2018251)
+[Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
+[Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
+
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="https://uakarsh.github.io/AkarshU" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
