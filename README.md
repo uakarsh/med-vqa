@@ -21,6 +21,18 @@ Problem : Question Answering for the Medical Images
 Implementation: I have taken inspiration from [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf), and the slides as mentioned above, and implemented in Tensorflow 2.0, however, I have made some changes, because I did not understand those things, will improve in the near future.
 
 
+## Setup: 
+
+GOOGLE COLAB:
+What you need to do is: 
+Download : 
+        1. trainset.json
+        2. testset.json
+        3. VQA Image Folder
+        4. Cache Folder
+Upload these projects to your google drive, and then follow the instructions that are present in the VQA.ipynb notebook.
+
+
 ### Connect with me:
 
 [<img align="left" alt="https://uakarsh.github.io/AkarshU" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
