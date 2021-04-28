@@ -1,7 +1,7 @@
 ### Hi there, I'm Akarsh 👋
 
-[![Website]](https://uakarsh.github.io/AkarshU/)
-![Twitter Follow](https://twitter.com/akarsh1_u)
+[Website](https://uakarsh.github.io/AkarshU/)
+[Twitter Follow](https://twitter.com/akarsh1_u)
 
 ## I'm a student, a datas science enthusiast and Teacher (somewhat)!!
 
