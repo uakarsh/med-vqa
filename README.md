@@ -25,7 +25,9 @@ Implementation: I have taken inspiration from [Stacked Attention Network](https:
 
 GOOGLE COLAB:
 What you need to do is: 
+
 Download : 
+
         1. trainset.json
         2. testset.json
         3. VQA Image Folder
