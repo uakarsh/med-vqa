@@ -14,9 +14,9 @@
 ## About the Project:
 
 Problem : Question Answering for the Medical Images 
-[Data](https://www.nature.com/articles/sdata2018251)
-[Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
-[Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
+- [Data](https://www.nature.com/articles/sdata2018251)
+- [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
+- [Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
 
 
 
