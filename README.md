@@ -55,7 +55,7 @@ Upload these projects to your google drive, and then follow the instructions tha
 - [Customer Segmentation (Unsupervised Learning)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
 - [Brain MRI Segmentation (Classification and Segmentation)](https://www.kaggle.com/akarshu121/brain-segmentation)
 - [Image Classification (Cancer detection)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [Movie Reccomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
+- [Movie Recomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
 <!-- YOUTUBE:END -->
 
 
