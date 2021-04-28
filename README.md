@@ -18,6 +18,7 @@
 [<img align="left" alt="Akarsh Upadhyay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kaggle | Kaggle" width="22px" src ="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg />][kaggle]
 <br />
 <br />
 <br />
@@ -47,3 +48,4 @@
 [youtube]: https://www.youtube.com/channel/UCvHy0oE1PUkGFjK_pWCajmQ
 [instagram]: https://www.instagram.com/rutvik_iam/?hl=en
 [linkedin]: https://www.linkedin.com/in/akarsh-upadhyay-50ba7518b/
+[kaggle]: https://www.kaggle.com/akarshu121
