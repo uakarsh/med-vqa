@@ -18,7 +18,7 @@ Problem : Question Answering for the Medical Images
 - [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
 - [Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
 
-
+Implementation: I have taken inspiration from [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf), and the slides as mentioned above, and implemented in Tensorflow 2.0, however, I have made some changes, because I did not understand those things, will improve in the near future.
 
 
 ### Connect with me:
