@@ -31,7 +31,7 @@ Download :
         1. trainset.json
         2. testset.json
         3. VQA Image Folder
-        4. Cache Folder
+        4. Cache Folder  (contains the pickle file, for converting the answers to labels, and vice versa, and the mapping for dictionary and answer)
 Upload these projects to your google drive, and then follow the instructions that are present in the VQA.ipynb notebook.
 
 
