@@ -1,15 +1,15 @@
 ### Hi there, I'm Akarsh 👋
 
-[![Website]()](https://uakarsh.github.io/AkarshU/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/akarsh1_u)
+[![Website]](https://uakarsh.github.io/AkarshU/)
+![Twitter Follow](https://twitter.com/akarsh1_u)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a student, a datas science enthusiast and Teacher (somewhat)!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am currently looking for an internship 
+- 🌱 I’m currently learning  🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Land an internship in the field of Data Science, and contribute to open sources
+- ⚡ Fun fact: I love to dance and read books
 
 ### Connect with me:
 
@@ -27,31 +27,16 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Some of my projects:
 
 <!-- YOUTUBE:START -->
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
+- [Medical Visual Question Answering (Current Repository)](https://github.com/uakarsh/med-vqa)
+- [Customer Segmentation (Unsupervised Learning)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
+- [Brain MRI Segmentation](https://www.kaggle.com/akarshu121/brain-segmentation)
+- [Image Classification (Cancer detection) using ResNet](https://www.youtube.com/watch?v=rXPmjkaTA9A)
 - [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
