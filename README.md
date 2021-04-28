@@ -1,6 +1,6 @@
 ### Hi there, I'm Akarsh 👋
 
-[![Website]](https://uakarsh.github.io/AkarshU/)
+![Website](https://uakarsh.github.io/AkarshU/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/akarsh1_u)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
