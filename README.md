@@ -5,7 +5,7 @@
 
 ## I'm a student, a data science enthusiast and Teacher (somewhat)!!
 
-- 🔭 I am currently looking for an internship 
+- 🔭 I am currently looking for an internship (in the field of Data Science and Machine Learning)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Land an internship in the field of Data Science, and contribute to open sources
