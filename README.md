@@ -3,7 +3,7 @@
 [Website](https://uakarsh.github.io/AkarshU/)
 [Twitter](https://twitter.com/akarsh1_u)
 
-## I'm a student, a data science enthusiast and Teacher (somewhat)!!
+## I'm a student, a data science enthusiast!!
 
 - 🔭 I am currently looking for an internship (in the field of Data Science and Machine Learning)
 - 🌱 I’m currently learning everything 🤣
