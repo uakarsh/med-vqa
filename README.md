@@ -73,6 +73,6 @@ Upload these projects to your google drive, and then follow the instructions tha
 [website]: https://uakarsh.github.io/AkarshU
 [twitter]: https://twitter.com/akarsh1_u
 [youtube]: https://www.youtube.com/channel/UCvHy0oE1PUkGFjK_pWCajmQ
-[instagram]: https://www.instagram.com/rutvik_iam/?hl=en
+[instagram]: https://www.instagram.com/toforaeka/?hl=en
 [linkedin]: https://www.linkedin.com/in/akarsh-upadhyay-50ba7518b/
 [kaggle]: https://www.kaggle.com/akarshu121
