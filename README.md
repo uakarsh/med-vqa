@@ -56,7 +56,7 @@ Upload these projects to your google drive, and then follow the instructions tha
 <!-- YOUTUBE:START -->
 - [Medical Visual Question Answering (Current Repository)](https://github.com/uakarsh/med-vqa)
 - [Customer Segmentation (Unsupervised Learning)](https://www.kaggle.com/akarshu121/customer-segmentation/notebook)
-- [Brain MRI Segmentation (Classification and Segmentation)](https://www.kaggle.com/akarshu121/brain-segmentation)
+- [Brain MRI Segmentation (Classification and Segmentation)](https://github.com/uakarsh/brain-segmentation)
 - [Image Classification (Cancer detection)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
 - [Movie Recomendation using Cosine Similarity](https://github.com/uakarsh/Movie-Recommendation-Engine)
 <!-- YOUTUBE:END -->
