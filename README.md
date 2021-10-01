@@ -1,6 +1,6 @@
-## About the Project:
+# About the Project:
 
-Problem : Question Answering for the Medical Images 
+## Problem : Question Answering for the Medical Images 
 - [Data](https://www.nature.com/articles/sdata2018251)
 - [Stacked Attention Network](https://arxiv.org/pdf/1511.02274.pdf)
 - [Slides for Stacked Attention Network](http://www.cs.virginia.edu/~vicente/vislang/slides/wasimonica.pdf)
@@ -13,7 +13,7 @@ Implementation: I have taken inspiration from [Stacked Attention Network](https:
 GOOGLE COLAB:
 What you need to do is: 
 
-Download : 
+#### Download : 
 
         1. trainset.json
         2. testset.json
